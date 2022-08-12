@@ -107,6 +107,12 @@ p {
     padding: 10px;
   }
   
+  .grid-container1y {
+    display: grid;
+    grid-template-columns: auto;
+    background-color: #D6AD47;
+    padding: 10px;
+  }
   
   .footer {
     left: 0;
