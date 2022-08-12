@@ -99,6 +99,13 @@ p {
     align-items: center;
     justify-content: center;
   }
+
+  .grid-container1 {
+    display: grid;
+    grid-template-columns: auto;
+    background-color: #A3A36C;
+    padding: 10px;
+  }
   
   
   .footer {
